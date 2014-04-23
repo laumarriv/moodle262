@@ -381,7 +381,7 @@
             echo $OUTPUT->heading('<a href="'.$securewwwroot.'/user/editadvanced.php?id=-1">'.get_string('addnewuser').'</a>');
         }
     }
-
+    echo "Test to GIT revert";
     echo $OUTPUT->footer();
 
 
